@@ -1,0 +1,1 @@
+{"layers":[{"type":"LayerGroup","title":"dorogenpyo_kobayashi_genkyo","iconUrl":"","toggleall":false,"id":"dorogenpyo_kobayashi","src":"https://github.com/Kobayashi-Mamoru-1114/DetaToQchizu.git"}]}
